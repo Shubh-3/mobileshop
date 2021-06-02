@@ -1,5 +1,4 @@
-# mobileshop
-
+# Mobileshop
 - Live website link: http://shubhmobileshop.000webhostapp.com
 
 ## Home Page
@@ -35,7 +34,7 @@
 
 ![Mobile6](https://user-images.githubusercontent.com/83495665/120531591-6f374480-c3fc-11eb-9838-2fead7cbf936.png)
 
-##Detail Product (Review)
+## Detail Product (Review)
 - Display review of product and also write a review if you have login user.
 
 ![Mobile7](https://user-images.githubusercontent.com/83495665/120531606-73fbf880-c3fc-11eb-8227-8e54b5ac41b8.png)
